@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_KHS", "Sample_KHS\Sample_KHS.csproj", "{3C188885-916A-408B-919A-35D224A3D75C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C188885-916A-408B-919A-35D224A3D75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C188885-916A-408B-919A-35D224A3D75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C188885-916A-408B-919A-35D224A3D75C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C188885-916A-408B-919A-35D224A3D75C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853D2A2B-A9D0-4F8D-BF18-0B09FD4E3909}
+	EndGlobalSection
+EndGlobal
